@@ -1,0 +1,255 @@
+{
+  "lessonName": "How to Read the Bible",
+  "subUnits": [
+    {
+      "title": "Introduction to Bible Reading",
+      "sections": [
+        {
+          "label": "Intro Overview",
+          "enhanced": [
+            {
+              "title": "Why Read the Bible?",
+              "icon": "bible.png",
+              "description": "The Bible is more than a book—it’s God’s Word to us. Reading it helps us know who God is, what He’s done, and how we should live. 2 Timothy 3:16 says Scripture is useful for teaching and guiding us in righteousness. Whether it’s your first time or your hundredth, reading the Bible helps you grow closer to God."
+            },
+            {
+              "title": "Making Bible Reading a Habit",
+              "icon": "calendar-check.png",
+              "description": "Start small and consistent. Set aside a regular time each day, even just 10 minutes. Jesus often withdrew to pray and reflect (Luke 5:16), showing the value of regular quiet time. Begin with a short Gospel like Mark, or a daily Psalm or Proverb."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "According to 2 Timothy 3:16, what is Scripture useful for?",
+          "options": [
+            "Entertainment",
+            "History",
+            "Teaching and guiding in righteousness",
+            "Science"
+          ],
+          "answer": "Teaching and guiding in righteousness"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How do you plan to build a Bible reading habit?",
+          "scripture": {
+            "reference": "Luke 5:16",
+            "text": "But Jesus often withdrew to lonely places and prayed."
+          },
+          "prompt": "Pick a time, choose a place, and begin with a book like John or Psalms. Let your habit grow your relationship with God.",
+          "inputPlaceholder": "What part of this journey impacted you most?"
+        }
+      ]
+    },
+    {
+      "title": "How to Read the Bible",
+      "sections": [
+        {
+          "label": "Reading Styles",
+          "enhanced": [
+            {
+              "title": "Reading the Gospels",
+              "icon": "gospels.png",
+              "description": "The Gospels (Matthew, Mark, Luke, John) are biographies of Jesus. Read them slowly, imagining the scenes and listening for Jesus’ words."
+            },
+            {
+              "title": "Reading the Epistles",
+              "icon": "letters.png",
+              "description": "Letters like Romans and Corinthians were written to churches. Look for advice, encouragement, and practical applications."
+            },
+            {
+              "title": "Reading Revelation",
+              "icon": "revelation.png",
+              "description": "Revelation is apocalyptic and symbolic. Don’t try to decode every image—focus on the message of hope, worship, and God’s ultimate victory."
+            },
+            {
+              "title": "Reading Old Testament Narratives",
+              "icon": "scroll.png",
+              "description": "Stories in Genesis, Exodus, and Kings show God's faithfulness. Notice how God interacts with people over time."
+            },
+            {
+              "title": "Reading Psalms and Proverbs",
+              "icon": "wisdom.png",
+              "description": "These books are poetic and reflective. Read them devotionally—pause, pray, and let the words guide your worship or wisdom."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which type of biblical writing is typically symbolic and apocalyptic?",
+          "options": [
+            "Epistles",
+            "Narratives",
+            "Revelation",
+            "Psalms"
+          ],
+          "answer": "Revelation"
+        },
+        {
+          "label": "Final Reflection",
+          "type": "reflection",
+          "question": "Why is it important to read different parts of the Bible in different ways?",
+          "scripture": {
+            "reference": "2 Timothy 2:15",
+            "text": "Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."
+          },
+          "prompt": "Recognizing literary style helps you understand God’s Word more clearly and apply it faithfully.",
+          "inputPlaceholder": "What’s one part of the Bible you want to explore more deeply, and how will you approach it differently?"
+        }
+      ]
+    },
+    {
+      "title": "Methods for Bible Reading",
+      "sections": [
+        {
+          "label": "Reading Methods",
+          "enhanced": [
+            {
+              "title": "The SOAP Method",
+              "icon": "notebook.png",
+              "description": "SOAP stands for Scripture, Observation, Application, and Prayer. For example, take Philippians 4:6—write it down (S), note how it tells you not to worry but to pray (O), think about your own anxiety (A), and then turn it into a prayer (P)."
+            },
+            {
+              "title": "Contextual Reading",
+              "icon": "context.png",
+              "description": "Ask: Who wrote this? Who were they writing to? What’s happening in the world at that time? For example, when Paul writes from prison (Philippians), understanding that adds power to his encouragement to rejoice."
+            },
+            {
+              "title": "Genre Awareness",
+              "icon": "book-stack.png",
+              "description": "The Bible has different genres—like poetry in Psalms, history in Kings, and teaching in the Epistles. Reading Proverbs is different than reading Revelation."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "What does the 'O' in SOAP stand for?",
+          "options": [
+            "Obey",
+            "Observation",
+            "Offering",
+            "Outline"
+          ],
+          "answer": "Observation"
+        },
+        {
+          "label": "Final Reflection",
+          "type": "reflection",
+          "question": "What method sounds helpful to you?",
+          "scripture": {
+            "reference": "Proverbs 4:7",
+            "text": "The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding."
+          },
+          "prompt": "Try SOAP if you like journaling. If you’re a thinker, study background and context.",
+          "inputPlaceholder": "Which reading method would you like to try first, and why?"
+        }
+      ]
+    },
+    {
+      "title": "Bible Study Tools",
+      "sections": [
+        {
+          "label": "Helpful Tools",
+          "enhanced": [
+            {
+              "title": "Interactive Chat Assistant",
+              "icon": "chat.png",
+              "description": "Our built-in Bible chatbot helps answer your questions as you read. Ask it about anything—context, meaning, or how a passage fits into the big picture."
+            },
+            {
+              "title": "Cultural Insights",
+              "icon": "earth.png",
+              "description": "Gain cultural and historical background on difficult passages. Understand the customs, language, and traditions of biblical times to go deeper."
+            },
+            {
+              "title": "Big Picture Connections",
+              "icon": "map.png",
+              "description": "Discover how each chapter fits into God’s overall story. Track themes like covenant, redemption, and fulfillment as you go."
+            },
+            {
+              "title": "Life Application Prompts",
+              "icon": "question.png",
+              "description": "After each chapter, reflect on questions like: How is this relevant to your life? What does it teach us about God’s character? How can you respond?"
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which feature in the app helps you connect a chapter to God’s bigger story?",
+          "options": [
+            "Bible translation tool",
+            "Commentary section",
+            "Interactive chat assistant",
+            "Reading timer"
+          ],
+          "answer": "Interactive chat assistant"
+        },
+        {
+          "label": "Final Reflection",
+          "type": "reflection",
+          "question": "What tool or resource could help you go deeper?",
+          "scripture": {
+            "reference": "Romans 15:4",
+            "text": "For everything that was written in the past was written to teach us..."
+          },
+          "prompt": "Maybe a devotional in YouVersion or a visual guide from BibleProject would help you stay engaged.",
+          "inputPlaceholder": "Is there a specific tool you’re excited to try, and why?"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion and Discussion",
+      "sections": [
+        {
+          "label": "Wrap-Up",
+          "enhanced": [
+            {
+              "title": "The Bible is a Lifelong Journey",
+              "icon": "path.png",
+              "description": "Reading the Bible isn’t a one-time goal—it’s a lifelong journey of growing in faith, wisdom, and relationship with God."
+            },
+            {
+              "title": "Apply What You’ve Learned",
+              "icon": "map.png",
+              "description": "You’ve explored methods, tools, and approaches. Now it’s time to take the next step—put it into practice."
+            },
+            {
+              "title": "Walk With Purpose",
+              "icon": "boots.png",
+              "description": "God’s Word equips you to live differently. Whether you journal, pray, or serve others, your walk with Jesus grows as you stay rooted in Scripture."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which book ends the New Testament?",
+          "options": [
+            "Romans",
+            "Jude",
+            "Hebrews",
+            "Revelation"
+          ],
+          "answer": "Revelation"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How will you apply what you've learned?",
+          "scripture": {
+            "reference": "2 Timothy 3:16–17",
+            "text": "All Scripture is God-breathed... so that the servant of God may be thoroughly equipped for every good work."
+          },
+          "prompt": "Everything you’ve learned points to Jesus and invites you to follow Him.",
+          "inputPlaceholder": "What truth from this study will you carry forward into your daily life?"
+        }
+      ]
+    }
+  ]
+}

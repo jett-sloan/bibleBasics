@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "bibleBasics",
+    "slug": "bibleBasics",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "assets/images/bible.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "assets/images/bible.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jettsloan.bibleBasics",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "assets/images/bible.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jettsloan.bibleBasics"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "assets/images/bible.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "fa8bfe06-446b-43e3-8f1a-4b055d3d90f5"
+      }
+    },
+    "owner": "jettsloan"
+  }
+}

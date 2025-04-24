@@ -1,0 +1,346 @@
+{
+  "lessonName": "New Testament in a Nutshell",
+  "subUnits": [
+    {
+      "title": "Introduction to the New Testament",
+      "sections": [
+        {
+          "label": "Overview",
+          "enhanced": [
+            {
+              "title": "The New Covenant Begins",
+              "icon": "scroll.png",
+              "description": "The New Testament reveals the arrival of Jesus and the beginning of a new relationship between God and humanity."
+            },
+            {
+              "title": "Structure and Purpose",
+              "icon": "gospels.png",
+              "description": "Divided into Gospels, Acts, Letters, and Revelation, each part unveils God's plan of salvation through Christ."
+            },
+            {
+              "title": "Promise Fulfilled",
+              "icon": "promise.png",
+              "description": "Jesus is the fulfillment of all Old Testament promises and prophecies."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "What are the four main parts of the New Testament?",
+          "options": [
+            "Law, Prophets, Writings, Gospels",
+            "Gospels, Acts, Epistles, Revelation",
+            "History, Poetry, Gospels, Letters",
+            "Creation, Covenant, Christ, Church"
+          ],
+          "answer": "Gospels, Acts, Epistles, Revelation"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What does a 'new covenant' mean to you personally?",
+          "scripture": {
+            "reference": "Luke 22:20",
+            "text": "This cup is the new covenant in my blood, which is poured out for you."
+          },
+          "prompt": "Jesus came to offer a new way to relate to God\u2014through grace and faith.",
+          "inputPlaceholder": "How do you understand the difference between the old and new covenants?"
+        }
+      ]
+    },
+    {
+      "title": "The Gospels",
+      "sections": [
+        {
+          "label": "Four Portraits of Jesus",
+          "enhanced": [
+            {
+              "title": "Matthew \u2013 Jesus the King",
+              "icon": "crown.png",
+              "description": "Matthew emphasizes Jesus as the promised Messiah and King from the line of David. It focuses on His teachings and kingdom parables."
+            },
+            {
+              "title": "Mark \u2013 Jesus the Servant",
+              "icon": "servent.png",
+              "description": "Mark presents a fast-paced account of Jesus\u2019 actions, highlighting His power, authority, and sacrificial service."
+            },
+            {
+              "title": "Luke \u2013 Jesus the Savior for All",
+              "icon": "earth.png",
+              "description": "Luke focuses on Jesus' compassion, miracles, and ministry to the marginalized\u2014showing salvation is for everyone."
+            },
+            {
+              "title": "John \u2013 Jesus the Son of God",
+              "icon": "lamp.png",
+              "description": "John offers a deep, spiritual view of Jesus\u2019 identity as the divine Word, the Light, and the Way to eternal life."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which Gospel emphasizes Jesus as the Son of God?",
+          "options": [
+            "Matthew",
+            "Luke",
+            "John",
+            "Mark"
+          ],
+          "answer": "John"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "Which Gospel account do you connect with the most, and why?",
+          "scripture": {
+            "reference": "John 20:31",
+            "text": "But these are written that you may believe that Jesus is the Messiah, the Son of God..."
+          },
+          "prompt": "Each Gospel offers a unique view of Jesus. Explore how they complement each other.",
+          "inputPlaceholder": "Which perspective of Jesus stands out to you?"
+        }
+      ]
+    },
+    {
+      "title": "The Life of Jesus Christ",
+      "sections": [
+        {
+          "label": "Who Jesus Is",
+          "enhanced": [
+            {
+              "title": "Son of God",
+              "icon": "light.png",
+              "description": "Jesus is the promised Messiah, fully divine and fully human, who came to save us."
+            },
+            {
+              "title": "Teacher and Healer",
+              "icon": "hands.png",
+              "description": "He healed the sick, calmed storms, and taught with unmatched wisdom and authority."
+            },
+            {
+              "title": "The Cross and Resurrection",
+              "icon": "messiah.png",
+              "description": "Jesus died for our sins and rose again, defeating death and offering eternal life."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which Gospel begins with a genealogy of Jesus?",
+          "options": [
+            "Luke",
+            "John",
+            "Mark",
+            "Matthew"
+          ],
+          "answer": "Matthew"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What part of Jesus\u2019 life impacts your faith most?",
+          "scripture": {
+            "reference": "John 11:25",
+            "text": "I am the resurrection and the life. The one who believes in me will live, even though they die."
+          },
+          "prompt": "Jesus' life is a perfect model of love, obedience, and power.",
+          "inputPlaceholder": "Which moment in Jesus\u2019 life inspires you the most?"
+        }
+      ]
+    },
+    {
+      "title": "The Early Church and Acts",
+      "sections": [
+        {
+          "label": "Birth of the Church",
+          "enhanced": [
+            {
+              "title": "The Spirit Comes",
+              "icon": "fire.png",
+              "description": "In Acts 2, the Holy Spirit empowers the disciples to preach and perform miracles."
+            },
+            {
+              "title": "Growth Through Trials",
+              "icon": "growth.png",
+              "description": "Despite persecution, the church grows rapidly across the Roman Empire."
+            },
+            {
+              "title": "The Gospel Spreads",
+              "icon": "map.png",
+              "description": "Missionaries like Paul carry the Gospel far beyond Jerusalem to the Gentile world."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "What event marks the beginning of the church?",
+          "options": [
+            "Jesus' birth",
+            "Pentecost",
+            "Paul\u2019s conversion",
+            "The Ascension"
+          ],
+          "answer": "Pentecost"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What can we learn from the faith of the early Christians?",
+          "scripture": {
+            "reference": "Acts 4:31",
+            "text": "They were all filled with the Holy Spirit and spoke the word of God boldly."
+          },
+          "prompt": "The early church was courageous, generous, and Spirit-led.",
+          "inputPlaceholder": "How could you reflect those qualities in your life?"
+        }
+      ]
+    },
+    {
+      "title": "The Letters of the Apostles",
+      "sections": [
+        {
+          "label": "Epistles and Christian Living",
+          "enhanced": [
+            {
+              "title": "Letters to the Church",
+              "icon": "letters.png",
+              "description": "The apostles wrote letters to instruct, correct, and encourage believers in the early church."
+            },
+            {
+              "title": "Living the Faith",
+              "icon": "path.png",
+              "description": "Topics include unity, spiritual gifts, marriage, grace, and perseverance."
+            },
+            {
+              "title": "Faith That Works",
+              "icon": "authority.png",
+              "description": "James reminds us that faith without action is dead\u2014we\u2019re called to live it out."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Who wrote most of the New Testament letters?",
+          "options": [
+            "Peter",
+            "James",
+            "John",
+            "Paul"
+          ],
+          "answer": "Paul"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What teaching from the letters challenges you?",
+          "scripture": {
+            "reference": "Galatians 5:1",
+            "text": "It is for freedom that Christ has set us free."
+          },
+          "prompt": "The epistles remind us that we\u2019re saved by grace and called to live like Jesus.",
+          "inputPlaceholder": "Which teaching has stuck with you most?"
+        }
+      ]
+    },
+    {
+      "title": "The Book of Revelation",
+      "sections": [
+        {
+          "label": "Victory and Hope",
+          "enhanced": [
+            {
+              "title": "A Vision of the End",
+              "icon": "eternal.png",
+              "description": "John's vision reveals spiritual realities and the ultimate triumph of Christ."
+            },
+            {
+              "title": "The Return of the King",
+              "icon": "crown.png",
+              "description": "Jesus will return, evil will be defeated, and believers will reign with Him forever."
+            },
+            {
+              "title": "A New Heaven and Earth",
+              "icon": "heaven.png",
+              "description": "God promises to wipe every tear, end suffering, and restore creation completely."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Who wrote the Book of Revelation?",
+          "options": [
+            "Paul",
+            "Peter",
+            "James",
+            "John"
+          ],
+          "answer": "John"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How does Revelation inspire your hope or faith?",
+          "scripture": {
+            "reference": "Revelation 21:5",
+            "text": "He who was seated on the throne said, 'I am making everything new!'"
+          },
+          "prompt": "Revelation isn\u2019t just about the end\u2014it\u2019s about hope for today.",
+          "inputPlaceholder": "What are you most looking forward to in God\u2019s restored creation?"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion and Discussion",
+      "sections": [
+        {
+          "label": "Wrap-Up",
+          "enhanced": [
+            {
+              "title": "From Jesus to the Church",
+              "icon": "timeline.png",
+              "description": "The New Testament tells the story of Jesus and how His followers shaped the world."
+            },
+            {
+              "title": "Living the Gospel",
+              "icon": "boots.png",
+              "description": "We are called to live out what we\u2019ve learned\u2014with faith, love, and mission."
+            },
+            {
+              "title": "Your Role in the Story",
+              "icon": "people.png",
+              "description": "The story doesn\u2019t end in Revelation. You\u2019re invited to continue it with your life."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which book ends the New Testament?",
+          "options": [
+            "Romans",
+            "Jude",
+            "Hebrews",
+            "Revelation"
+          ],
+          "answer": "Revelation"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How will you apply what you've learned?",
+          "scripture": {
+            "reference": "2 Timothy 3:16\u201317",
+            "text": "All Scripture is God-breathed... so that the servant of God may be thoroughly equipped for every good work."
+          },
+          "prompt": "Everything you\u2019ve learned points to Jesus and invites you to follow Him.",
+          "inputPlaceholder": "What\u2019s your biggest takeaway from the New Testament?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+# Folders to ignore
+node_modules/
+.expo/
+.git/
+dist/
+build/
+web-build/
+tmp-inspect/
+assets/images/**
+assets/raw/
+assets/temp/
+my-proxy/
+my-proxy-bak/
+
+# Files to ignore
+expo-env.d.ts
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
+*.pem
+.env*.local
+*.tsbuildinfo
+*.log
+*.zip
+*.tar.gz
+*.mp4
+*.mov
+*.avi
+*.psd

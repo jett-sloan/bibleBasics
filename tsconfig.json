@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "ES6",
+    "lib": [
+      "ES6"
+    ],
+    "types": [
+      "@types/react",
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "@env": [
+        "env.d.ts"
+      ]
+    }
+  },
+  "include": [
+    "env.d.ts",
+    "app",
+    "components",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ],
+  "extends": "expo/tsconfig.base"
+}

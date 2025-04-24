@@ -1,0 +1,222 @@
+{
+  "lessonName": "What is the Bible?",
+  "subUnits": [
+    {
+      "title": "Introduction: What is the Bible?",
+      "sections": [
+        {
+          "label": "What are you most interested in this course?",
+          "type": "interactive",
+          "options": [
+            "Understanding what the Bible really is",
+            "Learning how the Bible is structured",
+            "Seeing how the Bible connects to Jesus",
+            "Knowing how the Bible applies to my life"
+          ],
+          "responses": {
+            "Understanding what the Bible really is": "Awesome! We'll help you discover what the Bible is all about — not just a book, but God's message to us.",
+            "Learning how the Bible is structured": "Great! We'll walk through how the Bible is organized so you feel confident navigating it.",
+            "Seeing how the Bible connects to Jesus": "Wonderful! You'll see how the whole Bible points to Jesus, from Genesis to Revelation.",
+            "Knowing how the Bible applies to my life": "Love that! We'll focus on making the Bible feel personal — showing how God's Word speaks to your everyday life."
+          }
+        },        
+        {
+          "label": "What is the Bible?",
+          "enhanced": [
+            {
+              "title": "God’s Word",
+              "icon": "bible.png",
+              "description": "The Bible is one big story made up of 66 books.\n• It reveals God’s love and plan to restore people."
+            },
+            {
+              "title": "Two Main Parts",
+              "icon": "scrolls.png",
+              "description": "Old Testament → Before Jesus, about God’s promises.\nNew Testament → The life of Jesus and the early Church."
+            },
+            {
+              "title": "Why It Matters",
+              "icon": "light.png",
+              "description": "The Bible helps us grow in faith and make wise choices.\n• It guides how we live and connects us with God."
+            },
+            {
+              "title": "What You'll Learn",
+              "icon": "map.png",
+              "description": "We'll explore the Bible’s structure, how to read it, and why it still matters today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Structure of the Bible",
+      "sections": [
+        {
+          "label": "Old Testament",
+          "text": "The Old Testament has 39 books. It includes:",
+          "enhanced": [
+            {
+              "title": "Law",
+              "icon": "law.png",
+              "description": "Genesis–Deuteronomy\n• Ten Commandments – Exodus 20"
+            },
+            {
+              "title": "History",
+              "icon": "history.png",
+              "description": "Joshua–Esther\n• David & Goliath – 1 Samuel 17"
+            },
+            {
+              "title": "Wisdom",
+              "icon": "wisdom.png",
+              "description": "Job–Song of Solomon\n• Psalm 23: 'The Lord is my shepherd.'"
+            },
+            {
+              "title": "Prophets",
+              "icon": "prophets.png",
+              "description": "Isaiah–Malachi\n• Isaiah 9:6 points to Jesus"
+            }
+          ]
+        },
+        {
+          "label": "New Testament",
+          "text": "The New Testament has 27 books. It includes:",
+          "enhanced": [
+            {
+              "title": "Gospels",
+              "icon": "gospels.png",
+              "description": "Matthew–John\n• The life and teachings of Jesus\n• Sermon on the Mount – Matthew 5"
+            },
+            {
+              "title": "Acts",
+              "icon": "acts.png",
+              "description": "The early church’s growth and mission\n• Peter’s bold preaching – Acts 2"
+            },
+            {
+              "title": "Epistles",
+              "icon": "letters.png",
+              "description": "Romans–Jude\n• Letters with guidance for Christian living\n• 1 Corinthians 13 on love"
+            },
+            {
+              "title": "Revelation",
+              "icon": "revelation.png",
+              "description": "A vision of hope and Jesus’ return\n• Revelation 21:4 — God wipes every tear"
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "How many books are in the Old Testament?",
+          "options": [
+            "27",
+            "39",
+            "66",
+            "12"
+          ],
+          "answer": "39"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How does knowing the Bible's structure help you read it better?",
+          "scripture": {
+            "reference": "2 Timothy 3:16",
+            "text": "All Scripture is inspired by God and is useful to teach us what is true."
+          },
+          "prompt": "Knowing how the Bible is organized helps you find truth, encouragement, and guidance more easily.",
+          "inputPlaceholder": "Which part of the Bible do you want to explore more?"
+        }
+      ]
+    },
+    {
+      "title": "The Inspiration and Authority of Scripture",
+      "sections": [
+        {
+          "label": "Inspiration of the Bible",
+          "enhanced": [
+            {
+              "title": "Inspiration of the Bible",
+              "icon": "inspiration.png",
+              "description": "The Bible was written by people but inspired by the Holy Spirit.\n• God gave Moses the Law – Exodus\n• Paul wrote letters to churches – Romans"
+            }
+          ]
+        },
+        {
+          "label": "Authority of the Bible",
+          "enhanced": [
+            {
+              "title": "Authority of the Bible",
+              "icon": "authority.png",
+              "description": "The Bible is the final authority for what Christians believe and how we live.\n• Jesus quoted Scripture when tempted – Matthew 4"
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Who inspired the writers of the Bible?",
+          "options": [
+            "Angels",
+            "Jesus",
+            "The Holy Spirit",
+            "The Disciples"
+          ],
+          "answer": "The Holy Spirit"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How does it help you trust the Bible more knowing it’s inspired?",
+          "scripture": {
+            "reference": "2 Peter 1:20–21",
+            "text": "Above all, you must understand that no prophecy of Scripture came about by the prophet’s own interpretation. For prophecy never had its origin in human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit."
+          },
+          "prompt": "Knowing that the Bible was written by people but inspired by God helps us trust its message. You're not just reading human opinions—you're reading God's truth.",
+          "inputPlaceholder": "How does this shape your view of the Bible?"
+        }
+      ]
+    },
+    {
+      "title": "Why the Bible is Important",
+      "sections": [
+        {
+          "label": "Why the Bible is Important",
+          "enhanced": [
+            {
+              "title": "God’s Revelation",
+              "icon": "revelation.png",
+              "description": "The Bible reveals who God is.\n• Exodus 34:6 – God is compassionate, gracious, and loving."
+            },
+            {
+              "title": "Spiritual Growth",
+              "icon": "growth.png",
+              "description": "Reading Scripture helps our faith grow.\n• Romans 10:17 – Faith comes from hearing.\n• Matthew 6 – Learn to pray.\n• Galatians 5:22–23 – Grow in character."
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How can reading the Bible bring real change in your life?",
+          "scripture": {
+            "reference": "Hebrews 4:12",
+            "text": "For the word of God is alive and active. Sharper than any double-edged sword... it judges the thoughts and attitudes of the heart."
+          },
+          "prompt": "The Bible isn't just information—it's transformation. It teaches, comforts, and leads us to become more like Jesus.",
+          "inputPlaceholder": "What is one way you want the Bible to change you?"
+        },        
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which verse talks about trusting God in your decisions?",
+          "options": [
+            "Galatians 5:22–23",
+            "Proverbs 3:5–6",
+            "Romans 10:17",
+            "Exodus 34:6"
+          ],
+          "answer": "Proverbs 3:5–6"
+        }
+      ]
+    }
+  ]
+}

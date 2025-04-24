@@ -1,0 +1,246 @@
+{
+  "lessonName": "The Big Story: Creation to Restoration",
+  "subUnits": [
+    {
+      "title": "Introduction to the Big Story",
+      "sections": [
+        {
+          "label": "What part of this story excites you most?",
+          "type": "interactive",
+          "options": [
+            "God’s perfect creation",
+            "The problem of sin and brokenness",
+            "How Jesus rescues us",
+            "The hope of restoration"
+          ],
+          "responses": {
+            "God’s perfect creation": "It's amazing to imagine a world just as God intended — full of beauty, peace, and purpose.",
+            "The problem of sin and brokenness": "This reminds us why we need a Savior. It’s powerful to see God’s plan even in the pain.",
+            "How Jesus rescues us": "This is the heart of the story — Jesus stepping into our mess to save and restore us.",
+            "The hope of restoration": "The ending is actually a new beginning — full of hope, healing, and a world made new."
+          }
+        },        
+        {
+          "label": "The Big Story",
+          "enhanced": [
+            {
+              "title": "Creation",
+              "icon": "creation.png",
+              "description": "God created a perfect world and made people to be with Him – Genesis 1–2"
+            },
+            {
+              "title": "Fall",
+              "icon": "fall.png",
+              "description": "Sin entered through disobedience, separating us from God – Genesis 3"
+            },
+            {
+              "title": "Redemption",
+              "icon": "redemption.png",
+              "description": "God sent Jesus to rescue and restore us – Gospels & Epistles"
+            },
+            {
+              "title": "Restoration",
+              "icon": "restoration.png",
+              "description": "Jesus will return to make everything new – Revelation 21–22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Creation",
+      "sections": [
+        {
+          "label": "What God Created",
+          "enhanced": [
+            {
+              "title": "The Beginning",
+              "icon": "earth.png",
+              "description": "God created the world in six days and rested on the seventh – Genesis 1–2"
+            },
+            {
+              "title": "Human Purpose",
+              "icon": "people.png",
+              "description": "People were made in God's image to reflect Him and care for creation – Genesis 1:26–28"
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What does it mean to you that God made everything good—including you?",
+          "scripture": {
+            "reference": "Genesis 1:27",
+            "text": "So God created mankind in His own image..."
+          },
+          "prompt": "You were made to reflect God's character and live in connection with Him.",
+          "inputPlaceholder": "What does being made in God's image mean for how you see yourself?"
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "On which day did God rest after creation?",
+          "options": ["Sixth", "Seventh", "First", "Tenth"],
+          "answer": "Seventh"
+        }
+      ]
+    },
+    {
+      "title": "Fall",
+      "sections": [
+        {
+          "label": "Sin Enters the Story",
+          "enhanced": [
+            {
+              "title": "The Fall",
+              "icon": "fall.png",
+              "description": "Adam and Eve disobeyed God, and sin entered the world – Genesis 3"
+            },
+            {
+              "title": "A Future Promise",
+              "icon": "promise.png",
+              "description": "God promised someone would come to defeat evil – Genesis 3:15"
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How do you see the effects of the Fall in your own life and in the world?",
+          "scripture": {
+            "reference": "Romans 5:12",
+            "text": "Sin entered the world through one man, and death through sin..."
+          },
+          "prompt": "We all experience the consequences of sin—but God's plan for redemption gives us hope.",
+          "inputPlaceholder": "Where do you long for healing or restoration?"
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "What fruit did Adam and Eve eat in the garden?",
+          "options": ["Apple", "Fig", "We don't know", "Olive"],
+          "answer": "We don't know"
+        }
+      ]
+    },
+    {
+      "title": "Redemption",
+      "sections": [
+        {
+          "label": "The Savior Arrives",
+          "enhanced": [
+            {
+              "title": "Jesus' Mission",
+              "icon": "cross.png",
+              "description": "Jesus lived perfectly, died for our sins, and rose again – John 3:16, Romans 5:8"
+            },
+            {
+              "title": "God's Love",
+              "icon": "love.png",
+              "description": "Jesus' sacrifice shows God’s love and the way back to Him."
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What does Jesus’ death and resurrection mean to you personally?",
+          "scripture": {
+            "reference": "John 3:16",
+            "text": "For God so loved the world that He gave His one and only Son..."
+          },
+          "prompt": "Jesus' sacrifice shows how far God will go to restore your relationship with Him.",
+          "inputPlaceholder": "How have you experienced God’s forgiveness or grace?"
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "What did Jesus die on?",
+          "options": ["Mountain", "Tree", "Cross", "Altar"],
+          "answer": "Cross"
+        }
+      ]
+    },
+    {
+      "title": "Restoration",
+      "sections": [
+        {
+          "label": "Everything Made New",
+          "enhanced": [
+            {
+              "title": "Future Hope",
+              "icon": "heaven.png",
+              "description": "God promises a world with no more pain, sin, or death – Revelation 21:4"
+            },
+            {
+              "title": "Life Forever",
+              "icon": "eternal.png",
+              "description": "We will live with God in joy, peace, and restored purpose – Revelation 22:1–5"
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What are you most looking forward to in God's restored creation?",
+          "scripture": {
+            "reference": "Revelation 21:4",
+            "text": "He will wipe every tear... there will be no more death or mourning..."
+          },
+          "prompt": "Restoration means everything broken will be healed. That includes you, too.",
+          "inputPlaceholder": "What would it look like for God to restore your life?"
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Where in the Bible does it say God will wipe every tear?",
+          "options": [
+            "Genesis 1",
+            "John 3",
+            "Revelation 21",
+            "Psalm 23"
+          ],
+          "answer": "Revelation 21"
+        }
+      ]
+    },
+    {
+      "title": "Conclusion and Discussion",
+      "sections": [
+        {
+          "label": "The Big Picture",
+          "enhanced": [
+            {
+              "title": "God's Story & Yours",
+              "icon": "story.png",
+              "description": "Every part of the Bible fits into the story of Creation to Restoration—and you’re part of it."
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "Where are you in the Big Story—and how is God inviting you forward?",
+          "scripture": {
+            "reference": "Ephesians 2:10",
+            "text": "For we are God’s masterpiece... created in Christ Jesus to do good works."
+          },
+          "prompt": "Your story connects to His big story. He’s not done writing it.",
+          "inputPlaceholder": "What step might God be inviting you to take today?"
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "According to Ephesians 2:10, what are we called?",
+          "options": [
+            "Sinners",
+            "God’s masterpiece",
+            "Servants",
+            "Followers"
+          ],
+          "answer": "God’s masterpiece"
+        }
+      ]
+    }
+  ]
+}

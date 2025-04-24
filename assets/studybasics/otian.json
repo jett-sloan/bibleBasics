@@ -1,0 +1,424 @@
+{
+  "lessonName": "Old Testament in a Nutshell",
+  "subUnits": [
+    {
+      "title": "Introduction to the Old Testament",
+      "sections": [
+        {
+          "label": "What do you hope to learn?",
+          "type": "interactive",
+          "options": [
+            "How the Old Testament points to Jesus",
+            "What the Law and Prophets are about",
+            "God’s covenant and promises",
+            "Major figures and events"
+          ],
+          "responses": {
+            "How the Old Testament points to Jesus": "That’s huge! You’ll begin to see how the entire Old Testament sets the stage for Jesus — He’s woven into every part of the story.",
+            "What the Law and Prophets are about": "Great choice! You’ll uncover how the Law shaped God's people and how the Prophets called them (and us) back to His heart.",
+            "God’s covenant and promises": "So important — the covenants show God’s commitment to rescue and bless, which continues through Jesus.",
+            "Major figures and events": "You’re in for some powerful stories! You’ll meet leaders, prophets, and ordinary people that God used in extraordinary ways."
+          }
+        },        
+        {
+          "label": "What is the Old Testament?",
+          "enhanced": [
+            {
+              "title": "The Big Picture",
+              "icon": "timeline.png",
+              "description": "The Old Testament spans from Creation to centuries before Jesus’ birth, laying the foundation of God’s plan of redemption."
+            },
+            {
+              "title": "Core Themes Covered",
+              "icon": "themes.png",
+              "description": "We'll explore major themes such as the Law, Covenant, Worship, Kingship, Prophets, Exile, and the anticipation of the Messiah."
+            },
+            {
+              "title": "Key Figures",
+              "icon": "people.png",
+              "description": "You'll meet people like Abraham, Moses, David, and the Prophets—each playing a vital role in God's unfolding plan."
+            },
+            {
+              "title": "How It Connects to Jesus",
+              "icon": "messiah.png",
+              "description": "The Old Testament constantly points forward to Jesus—the ultimate fulfillment of the promises, sacrifices, and prophecies."
+            },
+            {
+              "title": "What You'll Learn",
+              "icon": "map.png",
+              "description": "Each unit will walk through the Law & Foundation, Key People, Kingdoms, Prophets, and how it all leads to the New Covenant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Law & Foundation",
+      "sections": [
+        {
+          "label": "Genesis to Deuteronomy",
+          "enhanced": [
+            {
+              "title": "Creation & Covenant",
+              "icon": "earth.png",
+              "description": "God creates the world, makes a covenant with Abraham (Genesis 12), and forms a holy people through the Exodus."
+            },
+            {
+              "title": "The Law Given",
+              "icon": "law.png",
+              "description": "Through Moses, God gives His Law (Exodus 20, Leviticus) to shape Israel's moral and spiritual life. Jesus would fulfill this Law (Matthew 5:17)."
+            },
+            {
+              "title": "Moses, the Deliverer",
+              "icon": "moses.png",
+              "description": "A type of Christ, Moses delivers Israel from slavery and mediates a covenant, much like Jesus delivers us from sin and mediates a new covenant (Hebrews 9:15)."
+            },
+            {
+              "title": "Sacrifices & Worship",
+              "icon": "altar.png",
+              "description": "The sacrificial system in Leviticus pointed to the seriousness of sin and the need for a perfect sacrifice\u2014fulfilled in Jesus."
+            },
+            {
+              "title": "Priesthood",
+              "icon": "priest.png",
+              "description": "God established the priesthood through Aaron to intercede for the people, symbolizing Jesus as our ultimate High Priest."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Who received God's law on Mount Sinai?",
+          "options": [
+            "Abraham",
+            "David",
+            "Moses",
+            "Isaiah"
+          ],
+          "answer": "Moses"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How does the Law help you understand God\u2019s heart and holiness?",
+          "scripture": {
+            "reference": "Psalm 19:7",
+            "text": "The law of the Lord is perfect, refreshing the soul."
+          },
+          "prompt": "God\u2019s instructions weren\u2019t just rules\u2014they were a way to live close to Him. Jesus invites us to do the same today.",
+          "inputPlaceholder": "What command or teaching stands out most to you?"
+        }
+      ]
+    },
+    {
+      "title": "Key People of the Covenant",
+      "sections": [
+        {
+          "label": "Abraham, Isaac, and Jacob",
+          "enhanced": [
+            {
+              "title": "Abraham: Father of Nations",
+              "icon": "abraham.png",
+              "description": "God promised Abraham his descendants would bless the whole world (Genesis 12). Jesus is the fulfillment of that promise (Galatians 3:29)."
+            },
+            {
+              "title": "Isaac & Jacob",
+              "icon": "patriarchs.png",
+              "description": "The covenant passed through Isaac and Jacob, showing how God's promise continues despite flaws and failures."
+            }
+          ]
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What do the stories of the patriarchs teach us about faith?",
+          "scripture": {
+            "reference": "Hebrews 11:8",
+            "text": "By faith Abraham... obeyed and went, even though he did not know where he was going."
+          },
+          "prompt": "Faith often requires trust in what we can\u2019t yet see. Abraham\u2019s faith was counted as righteousness.",
+          "inputPlaceholder": "What\u2019s one area you need to trust God with?"
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which patriarch wrestled with God and was renamed Israel?",
+          "options": [
+            "Isaac",
+            "Abraham",
+            "Jacob",
+            "Moses"
+          ],
+          "answer": "Jacob"
+        }
+      ]
+    },
+    {
+      "title": "Key Figures of the Old Testament",
+      "sections": [
+        {
+          "label": "Major People and Their Roles",
+          "enhanced": [
+            {
+              "title": "Abraham",
+              "icon": "abraham.png",
+              "description": "The father of faith, Abraham trusted God\u2019s promises and became the root of God\u2019s covenant people \u2013 Genesis 12, 15."
+            },
+            {
+              "title": "Moses",
+              "icon": "moses.png",
+              "description": "Led the Israelites out of Egypt and received the Law at Mount Sinai. His life points to Jesus as the ultimate deliverer."
+            },
+            {
+              "title": "David",
+              "icon": "harp.png",
+              "description": "A shepherd-king who wrote many Psalms. God's covenant with David (2 Samuel 7) points to Jesus, the eternal King."
+            },
+            {
+              "title": "Joseph",
+              "icon": "coat.png",
+              "description": "Betrayed and imprisoned, yet used by God to save nations\u2014foreshadowing Jesus' suffering and exaltation."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Who received God's covenant promise that his descendants would bless the world?",
+          "options": [
+            "Moses",
+            "David",
+            "Noah",
+            "Abraham"
+          ],
+          "answer": "Abraham"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "Which Old Testament figure do you most relate to, and why?",
+          "scripture": {
+            "reference": "Hebrews 11:1",
+            "text": "Now faith is confidence in what we hope for and assurance about what we do not see."
+          },
+          "prompt": "The people in the Old Testament were flawed but faithful. Their stories show us how to walk with God through doubt, trials, and growth.",
+          "inputPlaceholder": "How do their stories encourage or challenge your faith?"
+        }
+      ]
+    },
+    {
+      "title": "Exile & Return",
+      "sections": [
+        {
+          "label": "A Nation in Exile",
+          "enhanced": [
+            {
+              "title": "The Fall of the Kingdom",
+              "icon": "broken-crown.png",
+              "description": "Because of unfaithfulness, Israel and Judah were conquered and taken into exile (2 Kings 17, 25)."
+            },
+            {
+              "title": "Hope in the Darkness",
+              "icon": "lamp.png",
+              "description": "Even in exile, prophets like Jeremiah and Ezekiel spoke of God’s promises and a future hope (Jeremiah 29:11)."
+            },
+            {
+              "title": "The Return and Rebuilding",
+              "icon": "altar.png",
+              "description": "Led by Ezra and Nehemiah, the people returned and rebuilt Jerusalem. But they still waited for a true Savior."
+            },
+            {
+              "title": "Looking Ahead to Jesus",
+              "icon": "hope.png",
+              "description": "The Old Testament closes with anticipation. Jesus would come as the true King, Temple, and Redeemer."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Who led the effort to rebuild the walls of Jerusalem after the exile?",
+          "options": [
+            "Ezra",
+            "Jeremiah",
+            "Nehemiah",
+            "Daniel"
+          ],
+          "answer": "Nehemiah"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How does God's faithfulness during exile give you hope today?",
+          "scripture": {
+            "reference": "Lamentations 3:22–23",
+            "text": "Because of the Lord’s great love we are not consumed... his mercies are new every morning."
+          },
+          "prompt": "God didn’t abandon His people, even when they strayed. He still brings us home.",
+          "inputPlaceholder": "Where have you seen God's mercy in hard times?"
+        }
+      ]
+    },    
+    {
+      "title": "Key Figures in God’s Story",
+      "sections": [
+        {
+          "label": "Faithful in Every Season",
+          "enhanced": [
+            {
+              "title": "Joseph – From Pit to Purpose",
+              "icon": "dream.png",
+              "description": "Sold by his brothers and wrongly imprisoned, Joseph remained faithful. God used him to save many lives—foreshadowing Jesus (Genesis 50:20)."
+            },
+            {
+              "title": "Ruth – Loyal and Redeemed",
+              "icon": "wheat.png",
+              "description": "Ruth, a Moabite widow, chose faith and loyalty. Her story of redemption leads directly to the family line of Jesus (Ruth 4:17)."
+            },
+            {
+              "title": "Esther – Bold in the Face of Fear",
+              "icon": "crown.png",
+              "description": "Esther risked her life to save her people. Her courage reminds us that God places us in specific moments 'for such a time as this' (Esther 4:14)."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which woman became the great-grandmother of King David?",
+          "options": [
+            "Esther",
+            "Deborah",
+            "Ruth",
+            "Hannah"
+          ],
+          "answer": "Ruth"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "How can ordinary faith lead to extraordinary impact?",
+          "scripture": {
+            "reference": "1 Corinthians 1:27",
+            "text": "God chose the weak things of the world to shame the strong."
+          },
+          "prompt": "None of these people started in powerful positions—but God used them in mighty ways.",
+          "inputPlaceholder": "What simple act of faith could God use in your life?"
+        }
+      ]
+    },    
+    {
+      "title": "Major and Minor Prophets",
+      "sections": [
+        {
+          "label": "Prophets Who Spoke God's Word",
+          "enhanced": [
+            {
+              "title": "Major Prophets",
+              "icon": "scroll.png",
+              "description": "Isaiah, Jeremiah, Ezekiel, and Daniel brought major messages of judgment, hope, and restoration."
+            },
+            {
+              "title": "Minor Prophets",
+              "icon": "mega.png",
+              "description": "12 shorter books from Hosea to Malachi address both personal and national sins, and point to God\u2019s mercy."
+            },
+            {
+              "title": "Pointing to Jesus",
+              "icon": "messiah.png",
+              "description": "Many prophets foretold the coming of the Messiah. Isaiah 53 speaks of a suffering servant\u2014fulfilled in Jesus."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz",
+          "type": "quiz",
+          "question": "Which prophet spoke about a 'suffering servant' who would bear our sins?",
+          "options": [
+            "Ezekiel",
+            "Daniel",
+            "Isaiah",
+            "Amos"
+          ],
+          "answer": "Isaiah"
+        },
+        {
+          "label": "Think About This",
+          "type": "reflection",
+          "question": "What can we learn from how the prophets called people to return to God?",
+          "scripture": {
+            "reference": "Isaiah 53:5",
+            "text": "He was pierced for our transgressions... by His wounds we are healed."
+          },
+          "prompt": "The prophets didn\u2019t just warn\u2014they offered hope. God still calls people back today.",
+          "inputPlaceholder": "What message from the prophets stands out most to you?"
+        }
+        
+      ]
+      
+    },
+    {
+      "title": "Conclusion",
+      "sections": [
+        {
+          "label": "Final Summary",
+          "enhanced": [
+            {
+              "title": "God’s Story from the Start",
+              "icon": "map.png",
+              "description": "The Old Testament is the foundation of God’s plan to rescue and redeem. It reveals His heart, His covenant, and His promise to send a Savior."
+            },
+            {
+              "title": "Jesus: The Fulfillment",
+              "icon": "messiah.png",
+              "description": "Every law, leader, prophet, and promise points toward Jesus—the ultimate Redeemer who brings the New Covenant."
+            },
+            {
+              "title": "Your Place in the Story",
+              "icon": "people.png",
+              "description": "God’s story is not over. You are invited to walk in faith, just like those before you, and live in light of His promises."
+            }
+          ]
+        },
+        {
+          "label": "Quick Quiz: Who Said It?",
+          "type": "quiz",
+          "question": "Who said, 'As for me and my house, we will serve the Lord'?",
+          "options": [
+            "Moses",
+            "David",
+            "Joshua",
+            "Abraham"
+          ],
+          "answer": "Joshua"
+        },
+        {
+          "label": "Quick Quiz: Books of the Law",
+          "type": "quiz",
+          "question": "Which of these books is NOT part of the Torah?",
+          "options": [
+            "Leviticus",
+            "Deuteronomy",
+            "Numbers",
+            "Judges"
+          ],
+          "answer": "Judges"
+        },
+        {
+          "label": "Final Reflection",
+          "type": "reflection",
+          "question": "What part of the Old Testament most deepened your faith or understanding of God?",
+          "scripture": {
+            "reference": "Romans 15:4",
+            "text": "For everything that was written in the past was written to teach us..."
+          },
+          "prompt": "The Old Testament gives us wisdom, hope, and understanding. Let its lessons shape your journey with God.",
+          "inputPlaceholder": "What part of this journey impacted you most?"
+        }
+      ]
+    }
+    
+    
+  ]
+}
+
