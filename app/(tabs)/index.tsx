@@ -11,7 +11,7 @@ export default function HomePage() {
 
   return (
     <ImageBackground
-      source={require('../../assets/images/homepagebg.png')} // make sure this image exists
+      source={require('../../assets/images/homepagebg.png')} 
       style={styles.container}
       resizeMode="cover"
     >
