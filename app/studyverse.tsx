@@ -16,7 +16,7 @@ import { imageMap } from '../constants/imageMap';
 import ChatBot from '../components/ChatBot'
 import ContinueButton from '../components/ContinueButton'; // adjust the path if needed
 import ChapterInsights from '../components/ChapterInsights'; // adjust path if needed
-
+import TutorialPopup from 'components/Tutorial';
 
 const BASE_URL = 'https://my-proxy.jettsloansloan.workers.dev/bible';
 
@@ -156,7 +156,9 @@ export default function StudyVerse() {
 
   return (
     <View style={{ flex: 1 }}>
+      
     <ScrollView style={{ backgroundColor: '#F3EAC2' }} contentContainerStyle={{ padding: 20 }}>
+    <TutorialPopup/>
       {chapterBlocks.map((chapter, index) => (
         <View key={index} style={{ marginBottom: 40 }}>
           {/* Optional image */}
